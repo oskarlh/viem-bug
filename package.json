@@ -1,0 +1,17 @@
+{
+  "name": "viem-bug",
+  "version": "1.0.0",
+  "description": "Viem bug demonstration",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskarlh/viem-bug.git"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "viem": "^2.24.1"
+  }
+}
