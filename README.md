@@ -1,5 +1,4 @@
-# viem-bug
-Viem bug demonstration
+# Viem emitOnBegin bug demo
 
 
 When you run `npm run start`, if you do not have an Internet connection, the following error gets logged to console and the program stops.
